@@ -1,0 +1,31 @@
+Q:Is it a living thing?
+Q:Is it an animal?
+Q:Does it live in water?
+A:fish
+A:dog
+Q:Is it a plant?
+Q:Is it a flower?
+A:rose
+A:sunflower
+Q:Is it man-made?
+Q:Is it electronic?
+Q:Is it used for communication?
+A:mobile phone
+A:television
+Q:Is it used for transportation?
+A:car
+A:airplane
+Q:Is it a building?
+Q:Is it a place of worship?
+A:church
+A:school
+Q:Is it natural?
+Q:Is it a celestial body?
+Q:Is it visible during the day?
+A:sun
+A:moon
+Q:Is it found on Earth?
+Q:Is it a landform?
+A:mountain
+A:river
+

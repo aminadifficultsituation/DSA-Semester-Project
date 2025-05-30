@@ -1,0 +1,29 @@
+Q:Is it an animal?
+Y
+Q:Can it fly?
+Y
+Q:Is it a bird?
+Y
+A:Eagle
+N
+A:Bat
+N
+Q:Does it live in water?
+Y
+A:Dolphin
+N
+A:Dog
+N
+Q:Is it a vehicle?
+Y
+Q:Does it have wheels?
+Y
+A:Car
+N
+A:Boat
+N
+Q:Is it electronic?
+Y
+A:Smartphone
+N
+A:Book
