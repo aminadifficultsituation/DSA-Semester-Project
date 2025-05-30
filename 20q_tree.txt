@@ -1,0 +1,71 @@
+Is it an animal?
+Is it commonly kept as a pet?
+Is it a dog?
+Dog
+#
+#
+is it human
+Kalis
+#
+#
+is it solid?
+Rock
+#
+#
+Cat
+#
+#
+Is it a bird?
+Bird
+#
+#
+Does it run fast
+Horse
+#
+#
+does it give milk
+cow
+#
+#
+Elephant
+#
+#
+Is it man-made?
+Is it electronic?
+Computer
+#
+#
+stores water
+bottle
+#
+#
+Car
+#
+#
+Is it a plant?
+is it Apple
+Apple
+#
+#
+Tree
+#
+#
+is it fruit
+Apple
+#
+#
+Is is furios Animal
+Lion
+#
+#
+is it vegetable
+Potato
+#
+#
+is it a girl?
+Zarmeena
+#
+#
+Rock
+#
+#
